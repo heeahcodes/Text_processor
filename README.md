@@ -9,4 +9,4 @@ A Python program that runs Python's spaCy library to analyze and separate the na
 1. Clone this repository: ``` git clone https://github.com/heeahcodes/Text_processor.git```
 2. Run the script: python Text_processor.py
 3. Example output:
-   London | 36 times
+   London | 36 mentions
